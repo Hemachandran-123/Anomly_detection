@@ -10,9 +10,10 @@ Dataset used: [`art_daily_jumpsup.csv`]
 ---
 
 ## ⚙️ Project Structure
-├── anomaly-detection-work.ipynb # Main Jupyter notebook
-├── art_daily_jumpsup.csv # Dataset used
-├── IoT_Anomaly_Detection_Summary.pdf # Project summary report (2–3 pages)
+
+├── anomaly-detection-work.ipynb
+├── art_daily_jumpsup.csv 
+├── IoT_Anomaly_Detection_Summary.pdf
 ├── README.md # This file
 
 
@@ -25,7 +26,7 @@ Install dependencies using pip:
 pip install pandas numpy matplotlib seaborn scikit-learn tensorflow
 
 
-How to Run
+## How to Run
 
 Open the notebook
 
@@ -51,7 +52,8 @@ Model Evaluation & Visualization
 
 View the results
 
-Outputs include:
+
+## Outputs include:
 
 Raw time series and rolling mean plots
 
@@ -104,5 +106,6 @@ Dashboard visualization for operators
 👨‍💻 Author
 
 Hemachandran M
+
 Machine Learning Engineer | Data Science Enthusiast
 
