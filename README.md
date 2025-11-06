@@ -103,7 +103,7 @@ Streaming anomaly detection for live monitoring
 Dashboard visualization for operators
 
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Hemachandran M
 
